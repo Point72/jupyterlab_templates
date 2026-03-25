@@ -94,7 +94,7 @@ search = '"version": "{current_version}"'
 replace = '"version": "{new_version}"'
 
 [[tool.bumpversion.files]]
-filename = ":binder/requirements.txt"
+filename = "binder/requirements.txt"
 search = "jupyterlab_templates=={current_version}"
 replace = "jupyterlab_templates=={new_version}"
 
