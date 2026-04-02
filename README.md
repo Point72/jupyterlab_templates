@@ -6,7 +6,7 @@ Support for jupyter notebook templates in jupyterlab
 [![codecov](https://codecov.io/gh/finos/jupyterlab_templates/branch/main/graph/badge.svg)](https://codecov.io/gh/finos/jupyterlab_templates)
 [![License](https://img.shields.io/github/license/finos/jupyterlab_templates)](https://github.com/finos/jupyterlab_templates)
 [![PyPI](https://img.shields.io/pypi/v/jupyterlab-templates.svg)](https://pypi.python.org/pypi/jupyterlab-templates)
-[![FINOS Active](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-active.svg)](https://community.finos.org/docs/governance/software-projects/stages/active/)
+[![FINOS - Graduated](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-graduated.svg)](https://community.finos.org/docs/governance/lifecycle-stages/graduated)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/finos/jupyterlab_templates/main?urlpath=lab)
 
 ![](https://raw.githubusercontent.com/finos/jupyterlab_templates/main/docs/example1.gif)
